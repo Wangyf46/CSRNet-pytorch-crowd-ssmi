@@ -7,10 +7,8 @@ ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4F
 
 ## Prerequisites
 We strongly recommend Anaconda as the environment.
-
 Python: 3.7
-
-PyTorch:1.0
+PyTorch: 1.0
 
 ## Loss
 MSE+SSIM
@@ -19,5 +17,5 @@ MSE+SSIM
 
 
 ## Results
-ShanghaiB(original) MAE: 12.6024, MSE: 19.7146
+ShanghaiB(original) MAE: 12.6024, MSE: 19.7146    
 ShanghaiB           MAE: 10.5649, MSE: 16.9848
