@@ -6,8 +6,8 @@ This is the PyTorch version repo for [CSRNet: Dilated Convolutional Neural Netwo
 ShanghaiTech Dataset: [Google Drive](https://drive.google.com/open?id=16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI)
 
 ## Prerequisites
-We strongly recommend Anaconda as the environment.
-Python: 3.7
+We strongly recommend Anaconda as the environment.    
+Python: 3.7   
 PyTorch: 1.0
 
 ## Loss
